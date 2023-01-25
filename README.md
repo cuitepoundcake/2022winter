@@ -28,7 +28,7 @@ data structure practice
 > otherwise continue the loop
 
 
-### practice 2: implement a binary search tree
+### practice 2: implement a binary search tree(BST)
 - Implement the binary search tree (BST) operations with linked list.
 - 1. Insert: Enter “i” or “I”, then enter a sequence of numbers and ended with “-1” to build a BST.
 - 2. Delete: Enter “d” or “D”, then enter a sequence of numbers ended with “-1” to delete those nodes.
